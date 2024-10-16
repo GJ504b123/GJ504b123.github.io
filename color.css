@@ -1,0 +1,33 @@
+p {
+    color:rgba(130, 26, 183, 0.749);
+    
+}
+h2{
+    color: rgba(50, 48, 208, 0.571);
+    font-family:幼圆;
+}
+ol{
+    color: rgba(43, 150, 226, 0.593);
+    font-size: 15px;
+    font-family: 幼圆;
+    line-height: 20px;
+}
+h3 {
+    color:rgba(130, 26, 183, 0.749);
+    font-size: 25px;
+   
+}
+button{
+    color: rgba(60, 19, 222, 0.673);
+    font-family: 幼圆;
+}
+textarea{
+    color: blueviolet;
+   
+}
+table{
+    color: rgba(43, 150, 226, 0.593);
+    font-size: 21px;
+    font-family: 幼圆;
+}
+ 
