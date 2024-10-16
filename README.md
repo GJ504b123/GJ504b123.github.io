@@ -2,7 +2,7 @@
 个人博客
 Welcome to my world!
 ## 关于我的网名
-![GJ504b星球]()
+![GJ504b星球](https://github.com/GJ504b123/GJ504b123.github.io/blob/main/GJ504b.jpg)
 ### what i want to experss?
 <ol>
 <li>GJ504b是小粉红，在天文界少见--意味着年轻活力，充满希望，掌中之宝</li>
